@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Startseite
+title: Interessenten
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

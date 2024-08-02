@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Startseite
+title: Impressum
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
