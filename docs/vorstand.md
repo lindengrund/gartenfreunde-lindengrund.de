@@ -10,10 +10,10 @@ description: Vorstellung der Vorstandsmitglieder
 
 
 
-# Kernvorstand
+# Kern&shy;vorstand
 
 
 
-# Fachvorstand
+# Fach&shy;vorstand
 
 

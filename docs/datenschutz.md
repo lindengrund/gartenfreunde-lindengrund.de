@@ -15,7 +15,7 @@ Forststraße / Peter-Kühne-Siedlung<br>
 **E-Mail-Adresse:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
-# § 2 Zwecke und Rechtsgrundlagen der Verarbeitung
+# § 2 Zwecke und Rechts&shy;grundlagen der Verarbeitung
 
 1. Der Verein führt eine Interessentenliste, in die sich Personen eintragen lassen können, die an der Übernahme einer freiwerdenden Kleingartenparzelle interessiert sind und über das Freiwerden einer passenden Kleingartenparzelle informiert werden möchten. Rechtsgrundlage für die Verarbeitung ist die Einwilligung der betroffenen Person, gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
@@ -67,7 +67,7 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 7. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an die Landeshauptstadt Potsdam, Friedrich-Ebert-Straße 79/81, 14469 Potsdam. Diese ist eigenständige Verantwortliche iSd. Art. 4 Nr. 7 DSGVO.
 
-# § 5 Übermittlung von personenbezogenen Daten an Drittländer
+# § 5 Übermittlung von personen&shy;bezogenen Daten an Drittländer
 
 Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage des Durchführungsbeschlussses (EU) 2023/1795 der Kommission vom 10.07.2023.
 
@@ -113,7 +113,7 @@ Stahnsdorfer Damm 77<br>
 **Telefon:** +49 033203 356 0<br>
 **Webseite:** [https://www.lda.brandenburg.de/](https://www.lda.brandenburg.de/)
 
-# § 8 Automatisierte Entscheidungsfindung einschließlich Profiling
+# § 8 Automatisierte Entscheidungs&shy;findung einschließlich Profiling
 
 Der Verein verwendet keine automatisierte Entscheidungsfindung einschließlich Profiling.
 
@@ -121,7 +121,7 @@ Der Verein verwendet keine automatisierte Entscheidungsfindung einschließlich P
 
 Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem Gerät.
 
-# § 10 Änderungsvorbehalt
+# § 10 Änderungs&shy;vorbehalt
 
 Aufgrund erforderlicher Änderungen an den Verarbeitungstätigkeiten kann es notwendig werden, diese Datenschutzhinweise zu aktualisieren. Der Verein behält sich daher das Recht vor, jederzeit Änderungen an diesen Datenschutzhinweisen vorzunehmen. Die aktuelle Fassung dieser Datenschutzhinweise ist jeweils verfügbar beim Vorstand des Vereins.
 
