@@ -6,4 +6,4 @@ heading: Gartenfreunde Lindengrund e.V.
 description: Kleingartenverein der historischen Peter-Kühne-Siedlung
 ---
 
-# Willkommen auf der Vereinsseite des Kleingartenvereins Gartenfreunde Lindengrund e.V.!
+# Willkommen auf der Vereinsseite des Gartenfreunde Lindengrund e.V.!
