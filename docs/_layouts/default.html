@@ -17,6 +17,7 @@
       <h1 class="project-name">{{ page.heading | default: page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="/" class="{% if page.active == "startseite" %}btn-active {% endif %}btn">Startseite</a>
+      <a href="/verein" class="{% if page.active == "verein" %}btn-active {% endif %}btn">Verein</a>
       <a href="/vorstand" class="{% if page.active == "vorstand" %}btn-active {% endif %}btn">Vorstand</a>
       <a href="/interessenten" class="{% if page.active == "interessenten" %}btn-active {% endif %}btn">Interessenten</a>
       <a href="/peter-kuehne-siedlung" class="{% if page.active == "peter-kuehne-siedlung" %}btn-active {% endif %}btn">Peter-Kühne-Siedlung</a>
