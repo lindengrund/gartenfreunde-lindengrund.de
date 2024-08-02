@@ -5,6 +5,22 @@ heading: Impressum
 title: Impressum
 ---
 
+## § 1 Anbieter
+
+Gartenfreunde Lindengrund e.V. Potsdam-West<br>
+Forststraße / Peter-Kühne-Siedlung<br>
+14471 Potsdam<br>
+<br>
+**E-Mail-Adresse:** lindengrund \[ät\] posteo \[pünkt\] de<br>
+**Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
+
+## § 2 Vertretungsberechtigte
+
+**Mitglieder des Kernvorstands:**<br>
+André Woyna<br>
+Cornelia Manneck<br>
+Dr. David Manneck<br>
+<br>
 Gartenfreunde Lindengrund e.V. Potsdam-West<br>
 Forststraße / Peter-Kühne-Siedlung<br>
 14471 Potsdam<br>
