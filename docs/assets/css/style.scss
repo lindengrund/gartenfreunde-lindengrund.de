@@ -385,10 +385,11 @@ a {
 /* put custom CSS below this comment */
 
 .btn-active {
-  color: rgba(0, 0, 0, 0.8);
-  text-decoration: none;
   background-color: rgba(0, 0, 0, 0.2);
   border-color: rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+  text-decoration: none;
 }
 
 .center {
