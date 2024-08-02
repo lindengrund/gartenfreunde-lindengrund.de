@@ -87,17 +87,17 @@ Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogen
 
 2. Beruht die Verarbeitung von personenbezogenen Daten auf der Einwilligung der betroffenen Person gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO, so hat sie das Recht, ihre Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen (Widerrufsrecht nach Art. 7 Abs. 3 DSGVO).
 
-3. Darüber hinaus hat jede betroffene Person die folgenden Rechte in Bezug auf ihre personenbezogenen Daten:
-
-  a. Recht auf Berichtigung nach Art. 16 DSGVO
-
-  b. Recht auf Löschung ("Recht auf Vergessenwerden") nach Art. 17 DSGVO
-
-  c. Recht auf Einschränkung der Verarbeitung nach Art. 18 DSGVO
-
-  d. Recht auf Datenübertragbarkeit nach Art. 20 DSGVO
-
-  e. Widerspruchsrecht nach Art. 21 DSGVO
+3. Darüber hinaus hat jede betroffene Person die folgenden Rechte in Bezug auf ihre personenbezogenen Daten:<br>
+<br>
+a. Recht auf Berichtigung nach Art. 16 DSGVO<br>
+<br>
+b. Recht auf Löschung ("Recht auf Vergessenwerden") nach Art. 17 DSGVO<br>
+<br>
+c. Recht auf Einschränkung der Verarbeitung nach Art. 18 DSGVO<br>
+<br>
+d. Recht auf Datenübertragbarkeit nach Art. 20 DSGVO<br>
+<br>
+e. Widerspruchsrecht nach Art. 21 DSGVO
 
 4. Betroffene Personen haben außerdem das Recht, eine Beschwerde bei einer Aufsichtsbehörde einzureichen. Die für den Verein zuständige Aufsichtsbehörde ist erreichbar unter:<br>
 <br>
