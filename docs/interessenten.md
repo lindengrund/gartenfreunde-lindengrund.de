@@ -1,8 +1,9 @@
 ---
 layout: default
 active: interessenten
-heading: Informationen für Interessenten
+heading: Interessenten
 title: Interessenten
+description: Informationen zur Übernahme einer Kleingartenparzelle
 ---
 
 

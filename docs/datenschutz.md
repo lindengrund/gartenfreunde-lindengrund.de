@@ -3,6 +3,7 @@ layout: default
 active: datenschutz
 heading: Datenschutz
 title: Datenschutz
+description: 
 ---
 
 ## § 1 Verantwortlicher

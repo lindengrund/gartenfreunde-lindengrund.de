@@ -3,6 +3,7 @@ layout: default
 active: impressum
 heading: Impressum
 title: Impressum
+description: 
 ---
 
 ## § 1 Anbieter

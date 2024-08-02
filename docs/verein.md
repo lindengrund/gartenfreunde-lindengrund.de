@@ -1,8 +1,9 @@
 ---
 layout: default
 active: verein
-heading: Über den Verein
+heading: Verein
 title: Verein
+description: Informationen rund um den Kleingartenverein
 ---
 
 
