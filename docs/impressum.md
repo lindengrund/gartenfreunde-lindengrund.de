@@ -15,7 +15,7 @@ Forststraße / Peter-Kühne-Siedlung<br>
 **E-Mail-Adresse:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
-# § 2 Vertretungsberechtigte
+# § 2 Vertretungs&shy;berechtigte
 
 **Mitglieder des Kernvorstands:**<br>
 André Woyna<br>
