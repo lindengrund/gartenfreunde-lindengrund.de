@@ -1,6 +1,7 @@
 ---
-title: Peter-Kühne-Siedlung
 layout: default
+heading: Peter-Kühne-Siedlung
+title: Peter-Kühne-Siedlung
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

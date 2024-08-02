@@ -1,5 +1,6 @@
 ---
 layout: default
+heading: Impressum
 title: Impressum
 ---
 

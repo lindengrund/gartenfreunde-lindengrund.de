@@ -1,5 +1,6 @@
 ---
 layout: default
+heading: Vorstand
 title: Vorstand
 ---
 
