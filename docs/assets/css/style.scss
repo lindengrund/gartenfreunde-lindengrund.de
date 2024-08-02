@@ -6,7 +6,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('/fonts/opensans.css');
+@import url('/assets/fonts/opensans.css');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
