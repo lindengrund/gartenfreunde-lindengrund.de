@@ -35,7 +35,7 @@ Forststraße / Peter-Kühne-Siedlung<br>
 
 9. Der Verein verarbeitet personenbezogene Daten der Webseitenbesucher zur Bereitstellung der publizierten Webinhalte. Rechtsgrundlage für die Verarbeitung ist das berechtigte Interesse des Vereins, gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO. Das berechtigte Interesse des Vereins liegt in der Verbreitung der publizierten Webinhalte.
 
-# § 3 Kategorien personenbezogener Daten
+# § 3 Kategorien personen&shy;bezogener Daten
 
 Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten durch den Verein verarbeitet:
 
@@ -51,7 +51,7 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 6. Zahlungsdaten einschließlich Kontoinhaber, Kontoverbindung und Zahlungsstände.
 
-# § 4 Empfänger der personenbezogenen Daten
+# § 4 Empfänger der personen&shy;bezogenen Daten
 
 1. Der Verein unterhält ein E-Mail-Postfach bei dem deutschen Anbieter Posteo e.K., Methfesselstr. 38, 10965 Berlin. Die Verarbeitung der personenbezogenen Daten erfolgt auf Grundlage der Datenschutzerklärung des Anbieters unter: [https://posteo.de/site/datenschutzerklaerung](https://posteo.de/site/datenschutzerklaerung)
 
@@ -71,7 +71,7 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage des Durchführungsbeschlussses (EU) 2023/1795 der Kommission vom 10.07.2023.
 
-# § 6 Speicherdauer
+# § 6 Speicher&shy;dauer
 
 1. Die für Eintragung in die Interessentenliste erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
 
@@ -83,7 +83,7 @@ Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogen
 
 5. Die für die Erfüllung der satzungsgemäßen Ziele und Aufgaben erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder in Fällen der Einwilligung die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
 
-# § 7 Betroffenenrechte
+# § 7 Betroffenen&shy;rechte
 
 1. Jede betroffene Person hat das Recht, Auskunft über die vom Verein über sie gespeicherten personenbezogenen Daten zu erhalten (Auskunftsrecht der betroffenen Person nach Art. 15 DSGVO).
 
