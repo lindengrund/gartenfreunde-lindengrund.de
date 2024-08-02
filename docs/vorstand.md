@@ -6,4 +6,14 @@ heading: Gartenfreunde Lindengrund e.V.
 description: Vorstellung der Vorstandsmitglieder
 ---
 
+## Einleitung
+
+
+
+## Kernvorstand
+
+
+
+## Fachvorstand
+
 
