@@ -6,7 +6,7 @@ heading: Gartenfreunde Lindengrund e.V.
 description: Datenschutz
 ---
 
-## § 1 Verantwortlicher
+# § 1 Verantwortlicher
 
 Gartenfreunde Lindengrund e.V. Potsdam-West<br>
 Forststraße / Peter-Kühne-Siedlung<br>
@@ -15,7 +15,7 @@ Forststraße / Peter-Kühne-Siedlung<br>
 **E-Mail-Adresse:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
-## § 2 Zwecke und Rechtsgrundlagen der Verarbeitung
+# § 2 Zwecke und Rechtsgrundlagen der Verarbeitung
 
 1. Der Verein führt eine Interessentenliste, in die sich Personen eintragen lassen können, die an der Übernahme einer freiwerdenden Kleingartenparzelle interessiert sind und über das Freiwerden einer passenden Kleingartenparzelle informiert werden möchten. Rechtsgrundlage für die Verarbeitung ist die Einwilligung der betroffenen Person, gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
@@ -35,7 +35,7 @@ Forststraße / Peter-Kühne-Siedlung<br>
 
 9. Der Verein verarbeitet personenbezogene Daten der Webseitenbesucher zur Bereitstellung der publizierten Webinhalte. Rechtsgrundlage für die Verarbeitung ist das berechtigte Interesse des Vereins, gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO. Das berechtigte Interesse des Vereins liegt in der Verbreitung der publizierten Webinhalte.
 
-## § 3 Kategorien personenbezogener Daten
+# § 3 Kategorien personenbezogener Daten
 
 Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten durch den Verein verarbeitet:
 
@@ -51,7 +51,7 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 6. Zahlungsdaten einschließlich Kontoinhaber, Kontoverbindung und Zahlungsstände.
 
-## § 4 Empfänger der personenbezogenen Daten
+# § 4 Empfänger der personenbezogenen Daten
 
 1. Der Verein unterhält ein E-Mail-Postfach bei dem deutschen Anbieter Posteo e.K., Methfesselstr. 38, 10965 Berlin. Die Verarbeitung der personenbezogenen Daten erfolgt auf Grundlage der Datenschutzerklärung des Anbieters unter: [https://posteo.de/site/datenschutzerklaerung](https://posteo.de/site/datenschutzerklaerung)
 
@@ -67,11 +67,11 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 7. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an die Landeshauptstadt Potsdam, Friedrich-Ebert-Straße 79/81, 14469 Potsdam. Diese ist eigenständige Verantwortliche iSd. Art. 4 Nr. 7 DSGVO.
 
-## § 5 Übermittlung von personenbezogenen Daten an Drittländer
+# § 5 Übermittlung von personenbezogenen Daten an Drittländer
 
 Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage des Durchführungsbeschlussses (EU) 2023/1795 der Kommission vom 10.07.2023.
 
-## § 6 Speicherdauer
+# § 6 Speicherdauer
 
 1. Die für Eintragung in die Interessentenliste erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
 
@@ -83,7 +83,7 @@ Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogen
 
 5. Die für die Erfüllung der satzungsgemäßen Ziele und Aufgaben erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder in Fällen der Einwilligung die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
 
-## § 7 Betroffenenrechte
+# § 7 Betroffenenrechte
 
 1. Jede betroffene Person hat das Recht, Auskunft über die vom Verein über sie gespeicherten personenbezogenen Daten zu erhalten (Auskunftsrecht der betroffenen Person nach Art. 15 DSGVO).
 
@@ -113,15 +113,15 @@ Stahnsdorfer Damm 77<br>
 **Telefon:** +49 033203 356 0<br>
 **Webseite:** [https://www.lda.brandenburg.de/](https://www.lda.brandenburg.de/)
 
-## § 8 Automatisierte Entscheidungsfindung einschließlich Profiling
+# § 8 Automatisierte Entscheidungsfindung einschließlich Profiling
 
 Der Verein verwendet keine automatisierte Entscheidungsfindung einschließlich Profiling.
 
-## § 9 Cookies & Local Storage
+# § 9 Cookies & Local Storage
 
 Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem Gerät.
 
-## § 10 Änderungsvorbehalt
+# § 10 Änderungsvorbehalt
 
 Aufgrund erforderlicher Änderungen an den Verarbeitungstätigkeiten kann es notwendig werden, diese Datenschutzhinweise zu aktualisieren. Der Verein behält sich daher das Recht vor, jederzeit Änderungen an diesen Datenschutzhinweisen vorzunehmen. Die aktuelle Fassung dieser Datenschutzhinweise ist jeweils verfügbar beim Vorstand des Vereins.
 
