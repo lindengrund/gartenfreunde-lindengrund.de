@@ -12,7 +12,7 @@ Gartenfreunde Lindengrund e.V. Potsdam-West<br>
 Forststraße / Peter-Kühne-Siedlung<br>
 14471 Potsdam<br>
 <br>
-**E-Mail-Adresse:** lindengrund \[ät\] posteo \[pünkt\] de<br>
+**E-Mail:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
 # § 2 Zwecke und Rechts&shy;grundlagen der Verarbeitung
