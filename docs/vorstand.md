@@ -1,7 +1,7 @@
 ---
 layout: default
 active: vorstand
-heading: Vorstand
+heading: Der Vorstand stellt sich vor
 title: Vorstand
 ---
 

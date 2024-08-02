@@ -1,7 +1,7 @@
 ---
 layout: default
 active: interessenten
-heading: Interessenten
+heading: Informationen für Interessenten
 title: Interessenten
 ---
 

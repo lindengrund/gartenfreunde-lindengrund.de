@@ -1,7 +1,7 @@
 ---
 layout: default
 active: verein
-heading: Verein
+heading: Über den Verein
 title: Verein
 ---
 

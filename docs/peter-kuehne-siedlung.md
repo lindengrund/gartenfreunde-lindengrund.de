@@ -1,7 +1,7 @@
 ---
 layout: default
 active: peter-kuehne-siedlung
-heading: Peter-Kühne-Siedlung
+heading: Die historische Peter-Kühne-Siedlung
 title: Peter-Kühne-Siedlung
 ---
 
