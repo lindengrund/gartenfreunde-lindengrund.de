@@ -15,7 +15,12 @@ Forststraße / Peter-Kühne-Siedlung<br>
 **E-Mail:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
-# § 2 Vertretungs&shy;berechtigte
+# § 2 Register&shy;eintrag
+
+**Registergericht:** Amtsgericht Potsdam
+**Registernummer:** VR 1031 P
+
+# § 3 Vertretungs&shy;berechtigte
 
 **Mitglieder des Kernvorstands:**<br>
 André Woyna<br>
