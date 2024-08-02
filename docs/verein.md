@@ -1,9 +1,9 @@
 ---
 layout: default
 active: verein
-heading: Verein
+heading: Gartenfreunde Lindengrund e.V.
 title: Verein
-description: Informationen über den Kleingartenverein
+description: Informationen über den Verein
 ---
 
 

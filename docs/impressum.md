@@ -1,9 +1,9 @@
 ---
 layout: default
 active: impressum
-heading: Impressum
 title: Impressum
-description: 
+heading: Gartenfreunde Lindengrund e.V.
+description: Impressum
 ---
 
 ## § 1 Anbieter

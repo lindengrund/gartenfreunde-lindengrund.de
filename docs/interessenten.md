@@ -1,8 +1,8 @@
 ---
 layout: default
 active: interessenten
-heading: Interessenten
 title: Interessenten
+heading: Gartenfreunde Lindengrund e.V.
 description: Informationen zur Übernahme einer Kleingartenparzelle
 ---
 

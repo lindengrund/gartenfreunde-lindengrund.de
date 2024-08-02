@@ -1,8 +1,8 @@
 ---
 layout: default
 active: startseite
-heading: Gartenfreunde Lindengrund e.V.
 title: Startseite
+heading: Gartenfreunde Lindengrund e.V.
 description: Kleingartenverein der historischen Peter-Kühne-Siedlung
 ---
 

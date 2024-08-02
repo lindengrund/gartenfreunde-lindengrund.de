@@ -1,9 +1,9 @@
 ---
 layout: default
 active: datenschutz
-heading: Datenschutz
 title: Datenschutz
-description: 
+heading: Gartenfreunde Lindengrund e.V.
+description: Datenschutz
 ---
 
 ## § 1 Verantwortlicher
