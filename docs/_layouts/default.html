@@ -16,10 +16,10 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.heading | default: page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="/" class="btn">Startseite</a>
-      <a href="/vorstand" class="btn">Vorstand</a>
-      <a href="/interessenten" class="btn">Interessenten</a>
-      <a href="/peter-kuehne-siedlung" class="btn">Peter-Kühne-Siedlung</a>
+      <a href="/" class="{% if page.active == "startseite" %}btn-active{% else %}btn{% endif %}">Startseite</a>
+      <a href="/vorstand" class="{% if page.active == "vorstand" %}btn-active{% else %}btn{% endif %}">Vorstand</a>
+      <a href="/interessenten" class="{% if page.active == "interessenten" %}btn-active{% else %}btn{% endif %}">Interessenten</a>
+      <a href="/peter-kuehne-siedlung" class="{% if page.active == "peter-kuehne-siedlung" %}btn-active{% else %}btn{% endif %}">Peter-Kühne-Siedlung</a>
     </header>
 
     <main id="content" class="main-content" role="main">
