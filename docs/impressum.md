@@ -17,7 +17,7 @@ Forststraße / Peter-Kühne-Siedlung<br>
 
 # § 2 Register&shy;eintrag
 
-**Registergericht:** Amtsgericht Potsdam
+**Registergericht:** Amtsgericht Potsdam<br>
 **Registernummer:** VR 1031 P
 
 # § 3 Vertretungs&shy;berechtigte
