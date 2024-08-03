@@ -23,7 +23,7 @@ Genau mittig verläuft die historische [Peter-Kühne-Siedlung](/peter-kuehne-sie
 **Forststraße / Peter-Kühne-Siedlung**<br>
 **14471 Potsdam**
 
-Der Briefkasten des Vereins befindet sich am südlichen Ende der Peter-Kühne-Siedlung. Der Briefkasten steht sich direkt neben der Treppe, die zur Forststraße führt.
+Der Briefkasten des Vereins befindet sich am südlichen Ende der Peter-Kühne-Siedlung. Der Briefkasten steht direkt neben der Treppe, die zur Forststraße führt.
 
 <iframe width="100%" height="350px" src="https://www.openstreetmap.org/export/embed.html?bbox=13.007946610450746%2C52.38911582655223%2C13.016363382339478%2C52.392127694350286&layer=mapnik&marker=52.390621786141196%2C13.012152314186096" style="border: 1px solid black"></iframe>
 
