@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <link rel="preload" href="/assets/fonts/opensans.css" as="style" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    {% seo title=false %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.heading | default: page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="/" class="{% if page.active == "startseite" %}btn-active {% endif %}btn">Startseite</a>
+      <a href="/verein" class="{% if page.active == "verein" %}btn-active {% endif %}btn">Verein</a>
+      <a href="/vorstand" class="{% if page.active == "vorstand" %}btn-active {% endif %}btn">Vorstand</a>
+      <a href="/interessenten" class="{% if page.active == "interessenten" %}btn-active {% endif %}btn">Interessenten</a>
+      <a href="/peter-kuehne-siedlung" class="{% if page.active == "peter-kuehne-siedlung" %}btn-active {% endif %}btn">Peter-Kühne-Siedlung</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+
+      <footer class="center site-footer">
+        <a href="/datenschutz">Datenschutz</a> • <a href="/impressum">Impressum</a> • <a href="https://vorstand.gartenfreunde-lindengrund.de/" target="_blank">Mitgliederbereich</a>
+      </footer>
+    </main>
+  </body>
+</html>
