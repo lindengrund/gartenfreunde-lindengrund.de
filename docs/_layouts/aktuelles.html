@@ -26,7 +26,13 @@
 
     <main id="content" class="main-content" role="main">
       {% for post in site.posts %}
-      <h1>{{ post.date | date: "%d.%m.%Y" }}:<br>{{ post.title }}</h1>
+      <h1>{{ post.title }}</h1>
+      {% if post.date %}
+      <span class="post-info">Datum: {{ post.date | date: "%d.%m.%Y" }}</span>
+      {%endif}
+      {% if post.author %}
+      <span class="post-info">Autor: {{ post.author }}</span>
+      {%endif}
       {{ post.content }}
       {% if forloop.last == false %}
       <hr>

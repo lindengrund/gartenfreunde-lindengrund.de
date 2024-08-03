@@ -395,3 +395,18 @@ a {
 .center {
   text-align: center;
 }
+
+.post-info {
+  background-color: #FFFFFF;
+  border-color: #159957;
+  border-radius: 0.3rem;
+  border-style: solid;
+  border-width: 1px;
+  color: #159957;
+  display: inline-block;
+  padding: 0.5rem 0.5rem;
+
+  + .post-info {
+    margin-left: 0.25rem;
+  }
+}
