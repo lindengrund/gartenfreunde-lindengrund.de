@@ -28,7 +28,7 @@
       {% for post in site.posts %}
       <h1>{{ post.date | date: "%d.%m.%Y" }}:<br>{{ post.title }}</h1>
       {{ post.content }}
-      {% if !forloop.last %}
+      {% if forloop.last == false %}
       <hr>
       {% endif %}
       {% endfor %}
