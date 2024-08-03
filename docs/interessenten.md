@@ -10,6 +10,8 @@ description: Übernahme einer Kleingartenparzelle
 
 
 
+<hr class="post-separator">
+
 # Regeln
 
 
@@ -29,6 +31,7 @@ description: Übernahme einer Kleingartenparzelle
 ## Beitragsordnung
 
 
+<hr class="post-separator">
 
 # Mitgliedschaft
 
@@ -41,6 +44,7 @@ description: Übernahme einer Kleingartenparzelle
 ## Fördermitgliedschaft
 
 
+<hr class="post-separator">
 
 # Verträge
 
@@ -53,6 +57,7 @@ description: Übernahme einer Kleingartenparzelle
 ## Pacht&shy;vertrag
 
 
+<hr class="post-separator">
 
 # Interessenten&shy;liste
 

@@ -9,10 +9,12 @@ description: Vorstellung der Vorstandsmitglieder
 # Einleitung
 
 
+<hr class="post-separator">
 
 # Kern&shy;vorstand
 
 
+<hr class="post-separator">
 
 # Fach&shy;vorstand
 

@@ -9,14 +9,17 @@ description: Wissenswertes zur historischen Peter-Kühne-Siedlung
 # Einleitung
 
 
+<hr class="post-separator">
 
 # Historie
 
 
+<hr class="post-separator">
 
 # Gegenwart
 
 
+<hr class="post-separator">
 
 # Förder&shy;mitgliedschaft
 

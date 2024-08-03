@@ -14,10 +14,14 @@ Forststraße / Peter-Kühne-Siedlung<br>
 **E-Mail:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
+<hr class="post-separator">
+
 # § 2 Register&shy;eintrag
 
 **Registergericht:** Amtsgericht Potsdam<br>
 **Registernummer:** VR 1031 P
+
+<hr class="post-separator">
 
 # § 3 Vertretungs&shy;berechtigte
 

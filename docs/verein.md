@@ -9,6 +9,7 @@ description: Informationen über den Kleingartenverein
 # Einleitung
 
 
+<hr class="post-separator">
 
 # Lage
 
@@ -32,6 +33,8 @@ Der Briefkasten des Vereins befindet sich am südlichen Ende der Peter-Kühne-Si
 Die Zufahrt zu den Vereinsflächen erfolgt über den Werderschen Weg, der sich am nördlichen Ende der Peter-Kühne-Siedlung befindet. Über diesen ist auch eine Zufahrt zum Fasanenweg am östlichen Ende der Vereinsflächen möglich.
 
 <iframe width="100%" height="350px" src="https://www.openstreetmap.org/export/embed.html?bbox=13.007989525794985%2C52.390494108952055%2C13.016406297683716%2C52.39350588270325&layer=mapnik&marker=52.39200002151726%2C13.012195229530334" style="border: 1px solid black"></iframe>
+
+<hr class="post-separator">
 
 # Förder&shy;mitgliedschaft
 

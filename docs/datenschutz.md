@@ -14,6 +14,8 @@ Forststraße / Peter-Kühne-Siedlung<br>
 **E-Mail:** lindengrund \[ät\] posteo \[pünkt\] de<br>
 **Webseite:** [https://gartenfreunde-lindengrund.de/](https://gartenfreunde-lindengrund.de/)
 
+<hr class="post-separator">
+
 # § 2 Zwecke und Rechts&shy;grundlagen der Verarbeitung
 
 1. Der Verein führt eine Interessentenliste, in die sich Personen eintragen lassen können, die an der Übernahme einer freiwerdenden Kleingartenparzelle interessiert sind und über das Freiwerden einer passenden Kleingartenparzelle informiert werden möchten. Rechtsgrundlage für die Verarbeitung ist die Einwilligung der betroffenen Person, gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO.
@@ -34,6 +36,8 @@ Forststraße / Peter-Kühne-Siedlung<br>
 
 9. Der Verein verarbeitet personenbezogene Daten der Webseitenbesucher zur Bereitstellung der publizierten Webinhalte. Rechtsgrundlage für die Verarbeitung ist das berechtigte Interesse des Vereins, gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO. Das berechtigte Interesse des Vereins liegt in der Verbreitung der publizierten Webinhalte.
 
+<hr class="post-separator">
+
 # § 3 Kategorien personen&shy;bezogener Daten
 
 Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten durch den Verein verarbeitet:
@@ -49,6 +53,8 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 5. Webseitenbesucherdaten einschließlich IP-Adresse, User-Agent und Zieladresse sowie
 
 6. Zahlungsdaten einschließlich Kontoinhaber, Kontoverbindung und Zahlungsstände.
+
+<hr class="post-separator">
 
 # § 4 Empfänger der personen&shy;bezogenen Daten
 
@@ -68,11 +74,15 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 8. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an die Landeshauptstadt Potsdam, Friedrich-Ebert-Straße 79/81, 14469 Potsdam. Diese ist eigenständige Verantwortliche iSd. Art. 4 Nr. 7 DSGVO.
 
+<hr class="post-separator">
+
 # § 5 Übermittlung von personen&shy;bezogenen Daten an Drittländer
 
 1. Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage des Durchführungsbeschlusses (EU) 2023/1795 der Kommission vom 10.07.2023.
 
 2. Zur Einbindung des Kartenmaterials auf der Webseite werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage der Durchführungsverordnung (EU) 2021/1772 der Kommission vom 28.06.2021.
+
+<hr class="post-separator">
 
 # § 6 Speicher&shy;dauer
 
@@ -85,6 +95,8 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 4. Die für die Begründung, Durchführung und Beendigung von Pachtverträgen über Kleingartengrundstücke erforderlichen personenbezogenen Daten werden aus haftungsrechtlichen Gründen für bis zu 3 Jahre nach Beendigung der Pachtverträge aufgehoben und anschließend gelöscht.
 
 5. Die für die Erfüllung der satzungsgemäßen Ziele und Aufgaben erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder in Fällen der Einwilligung die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
+
+<hr class="post-separator">
 
 # § 7 Betroffenen&shy;rechte
 
@@ -116,13 +128,19 @@ Stahnsdorfer Damm 77<br>
 **Telefon:** +49 033203 356 0<br>
 **Webseite:** [https://www.lda.brandenburg.de/](https://www.lda.brandenburg.de/)
 
+<hr class="post-separator">
+
 # § 8 Automatisierte Entscheidungs&shy;findung einschließlich Profiling
 
 Der Verein verwendet keine automatisierte Entscheidungsfindung einschließlich Profiling.
 
+<hr class="post-separator">
+
 # § 9 Cookies & Local Storage
 
 Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem Gerät.
+
+<hr class="post-separator">
 
 # § 10 Änderungs&shy;vorbehalt
 
