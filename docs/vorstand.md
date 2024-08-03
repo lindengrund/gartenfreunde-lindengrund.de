@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: standard
 active: vorstand
 title: Vorstand
 heading: Gartenfreunde Lindengrund e.V.

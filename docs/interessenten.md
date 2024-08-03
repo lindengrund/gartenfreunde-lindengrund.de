@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: standard
 active: interessenten
 title: Interessenten
 heading: Gartenfreunde Lindengrund e.V.

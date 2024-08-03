@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: standard
 active: startseite
 title: Startseite
 heading: Gartenfreunde Lindengrund e.V.

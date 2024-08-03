@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: standard
 active: impressum
 title: Impressum
 heading: Gartenfreunde Lindengrund e.V.

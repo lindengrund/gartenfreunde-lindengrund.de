@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: standard
 active: verein
 heading: Gartenfreunde Lindengrund e.V.
 title: Verein
