@@ -56,19 +56,23 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 2. Der Verein unterhält eine Webseite bei dem amerikanischen Anbieter GitHub Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, USA bzw. seiner europäischen Zweigniederlassung GitHub B.V., Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande. Die Verarbeitung der personenbezogenen Daten erfolgt auf Grundlage der Datenschutzerklärung des Anbieters unter: [https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement)
 
-3. Der Verein übermittelt personenbezogene Daten an den Kreisverband Potsdam der Garten- und Siedlerfreunde e.V., Paul-Neumann-Straße 33A, 14482 Potsdam. Dieser ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+3. Der Verein bindet auf seiner Webseite Kartenmaterial über den britischen Anbieter OpenStreetMap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, England ein. Die Verarbeitung der personenbezogenen Daten erfolgt auf Grundlage der Datenschutzerklärung des Anbieters unter: [https://osmfoundation.org/wiki/Privacy_Policy](https://osmfoundation.org/wiki/Privacy_Policy)
 
-4. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Amtsgericht Potsdam, Jägerallee 10, 14469 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+4. Der Verein übermittelt personenbezogene Daten an den Kreisverband Potsdam der Garten- und Siedlerfreunde e.V., Paul-Neumann-Straße 33A, 14482 Potsdam. Dieser ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
-5. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Finanzamt Potsdam, Steinstraße 104-106, Haus 9, 14480 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+5. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Amtsgericht Potsdam, Jägerallee 10, 14469 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
-6. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg, Henning-von-Tresckow-Straße 2-13, Haus S, 14467 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+6. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Finanzamt Potsdam, Steinstraße 104-106, Haus 9, 14480 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
-7. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an die Landeshauptstadt Potsdam, Friedrich-Ebert-Straße 79/81, 14469 Potsdam. Diese ist eigenständige Verantwortliche iSd. Art. 4 Nr. 7 DSGVO.
+7. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg, Henning-von-Tresckow-Straße 2-13, Haus S, 14467 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+
+8. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an die Landeshauptstadt Potsdam, Friedrich-Ebert-Straße 79/81, 14469 Potsdam. Diese ist eigenständige Verantwortliche iSd. Art. 4 Nr. 7 DSGVO.
 
 # § 5 Übermittlung von personen&shy;bezogenen Daten an Drittländer
 
-Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage des Durchführungsbeschlussses (EU) 2023/1795 der Kommission vom 10.07.2023.
+1. Zur Bereitstellung der publizierten Webinhalte werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage des Durchführungsbeschlusses (EU) 2023/1795 der Kommission vom 10.07.2023.
+
+2. Zur Einbindung des Kartenmaterials auf der Webseite werden potentiell personenbezogene Daten der Webseitenbesucher in ein Drittland außerhalb der Europäischen Union übertragen. Die Übermittlung erfolgt gemäß Art. 45 Abs. 1 DSGVO auf Grundlage der Durchführungsverordnung (EU) 2021/1772 der Kommission vom 28.06.2021.
 
 # § 6 Speicher&shy;dauer
 
@@ -124,4 +128,4 @@ Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem G
 
 Aufgrund erforderlicher Änderungen an den Verarbeitungstätigkeiten kann es notwendig werden, diese Datenschutzhinweise zu aktualisieren. Der Verein behält sich daher das Recht vor, jederzeit Änderungen an diesen Datenschutzhinweisen vorzunehmen. Die aktuelle Fassung dieser Datenschutzhinweise ist jeweils verfügbar beim Vorstand des Vereins.
 
-**Potsdam, den 02.08.2024**
+**Potsdam, den 03.08.2024**
