@@ -404,9 +404,19 @@ a {
   border-width: 1px;
   color: #159957;
   display: inline-block;
+  margin-top: -0.5rem;
   padding: 0.5rem 0.5rem;
 
   + .post-info {
     margin-left: 0.25rem;
   }
+}
+
+h1.post-heading,
+h2.post-heading,
+h3.post-heading,
+h4.post-heading,
+h5.post-heading,
+h6.post-heading {
+  margin-bottom: 0;
 }
