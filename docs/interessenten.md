@@ -14,7 +14,31 @@ description: Übernahme einer Kleingartenparzelle
 
 
 
+## Bundeskleingartengesetz
+
+
+
+## Rahmengartenordnung
+
+
+
+## Vereinssatzung
+
+
+
+## Beitragsordnung
+
+
+
 # Mitgliedschaft
+
+
+
+## Ordentliche Mitgliedschaft
+
+
+
+## Fördermitgliedschaft
 
 
 
