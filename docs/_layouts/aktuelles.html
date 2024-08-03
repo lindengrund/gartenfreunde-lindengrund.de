@@ -29,10 +29,10 @@
       <h1>{{ post.title }}</h1>
       {% if post.date %}
       <span class="post-info">Datum: {{ post.date | date: "%d.%m.%Y" }}</span>
-      {%endif}
+      {% endif %}
       {% if post.author %}
       <span class="post-info">Autor: {{ post.author }}</span>
-      {%endif}
+      {% endif %}
       {{ post.content }}
       {% if forloop.last == false %}
       <hr>
