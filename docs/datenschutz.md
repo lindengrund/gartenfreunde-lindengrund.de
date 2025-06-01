@@ -24,13 +24,13 @@ Forststraße / Peter-Kühne-Siedlung<br>
 
 3. Der Verein verarbeitet personenbezogene Daten zur Abrechnung von Mitgliedsbeiträgen, Pachtbeiträgen, Spenden und Umlagen. Rechtsgrundlage für die Verarbeitung ist die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen, die auf Anfrage der betroffenen Person erfolgen, gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
-4. Der Verein übermittelt personenbezogene Daten an den Kreisverband Potsdam der Garten- und Siedlerfreunde e.V. zur Begründung, Durchführung und Beendigung von Pachtverträgen über Kleingartengrundstücke. Rechtsgrundlage für die Verarbeitung ist die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen, die auf Anfrage der betroffenen Person erfolgen, gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO.
+4. Der Verein übermittelt personenbezogene Daten an den Kreisverband Potsdam der Garten- und Siedlerfreunde e.V. zur Begründung, Durchführung und Beendigung von Pachtverträgen über Kleingartengrundstücke. Rechtsgrundlage für die Verarbeitung ist die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen, die auf Anfrage der betroffenen Person erfolgen, gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
 5. Im Zuge der Eintragung von Änderungen in das Vereinsregister kann es erforderlich sein, personenbezogene Daten an das Amtsgericht Potsdam zu übertragen. Rechtsgrundlage für die Verarbeitung ist die Erfüllung einer rechtlichen Verpflichtung, der der Verein unterliegt, gemäß Art. 6 Abs. 1 S. 1 lit. c DSGVO.
 
 6. Im Zuge der Anerkennung der fiskalischen Gemeinnützigkeit des Vereins kann es erforderlich sein, dem Finanzamt Potsdam Einblick in Unterlagen zum Nachweis der tatsächlichen Geschäftsführung des Vereins einschließlich der darin enthaltenen personenbezogenen Daten zu gewähren. Rechtsgrundlage für die Verarbeitung ist die Erfüllung einer rechtlichen Verpflichtung, der der Verein unterliegt, gemäß Art. 6 Abs. 1 S. 1 lit. c DSGVO.
 
-7. Im Zuge des Nachweises der kleingärtnerischen Gemeinnützigkeit des Vereins kann es erforderlich sein, dem Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg und/oder der Landeshauptstadt Potsdam Einblick in Unterlagen zum Nachweis der tatsächlichen Geschäftsführung des Vereins einschließlich der darin enthaltenen personenbezogenen Daten zu gewähren. Rechtsgrundlage für die Verarbeitung ist die Erfüllung einer rechtlichen Verpflichtung, der der Verein unterliegt, gemäß Art. 6 Abs. 1 S. 1 lit. c DSGVO.
+7. Im Zuge des Nachweises der kleingärtnerischen Gemeinnützigkeit des Vereins kann es erforderlich sein, dem Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg und/oder der Landeshauptstadt Potsdam Einblick in Unterlagen zum Nachweis der tatsächlichen Geschäftsführung des Vereins einschließlich der darin enthaltenen personenbezogenen Daten zu gewähren. Rechtsgrundlage für die Verarbeitung ist die Erfüllung einer rechtlichen Verpflichtung, der der Verein unterliegt, gemäß Art. 6 Abs. 1 S. 1 lit. c DSGVO.
 
 8. Der Verein verarbeitet personenbezogene Daten der Mitglieder und Pächter zur Erfüllung seiner satzungsgemäßen Ziele und Aufgaben. Rechtsgrundlage für die Verarbeitung ist das berechtigte Interesse des Vereins, gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO. Das berechtigte Interesse des Vereins liegt in der Erfüllung seiner satzungsgemäßen Ziele und Aufgaben, die dem Verein durch Satzungsbeschluss der Mitgliederversammlung auferlegt wurden. In Fällen, in denen die Verarbeitung aufgrund eines Antrags eines Mitglieds oder Pächters an den Vorstand oder die Mitgliederversammlung erfolgt und ein berechtigtes Interesse des Vereins nicht vorliegt, ist die Rechtsgrundlage für die Verarbeitung hilfsweise die Einwilligung der betroffenen Person, gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO.
 
@@ -64,13 +64,13 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 3. Der Verein bindet auf seiner Webseite Kartenmaterial über den britischen Anbieter OpenStreetMap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, England ein. Die Verarbeitung der personenbezogenen Daten erfolgt auf Grundlage der Datenschutzerklärung des Anbieters unter: [https://osmfoundation.org/wiki/Privacy_Policy](https://osmfoundation.org/wiki/Privacy_Policy)
 
-4. Der Verein übermittelt personenbezogene Daten an den Kreisverband Potsdam der Garten- und Siedlerfreunde e.V., Paul-Neumann-Straße 33A, 14482 Potsdam. Dieser ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+4. Der Verein übermittelt personenbezogene Daten an den Kreisverband Potsdam der Garten- und Siedlerfreunde e.V., Paul-Neumann-Straße 33A, 14482 Potsdam. Dieser ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
 5. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Amtsgericht Potsdam, Jägerallee 10, 14469 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
 6. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Finanzamt Potsdam, Steinstraße 104-106, Haus 9, 14480 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
-7. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Ministerium für Landwirtschaft, Umwelt und Klimaschutz des Landes Brandenburg, Henning-von-Tresckow-Straße 2-13, Haus S, 14467 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
+7. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an das Ministerium für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz des Landes Brandenburg, Henning-von-Tresckow-Straße 2-13, Haus S, 14467 Potsdam. Dieses ist eigenständiger Verantwortlicher iSd. Art. 4 Nr. 7 DSGVO.
 
 8. Der Verein übermittelt in Ausnahmefällen personenbezogene Daten an die Landeshauptstadt Potsdam, Friedrich-Ebert-Straße 79/81, 14469 Potsdam. Diese ist eigenständige Verantwortliche iSd. Art. 4 Nr. 7 DSGVO.
 
@@ -146,4 +146,4 @@ Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem G
 
 Aufgrund erforderlicher Änderungen an den Verarbeitungstätigkeiten kann es notwendig werden, diese Datenschutzhinweise zu aktualisieren. Der Verein behält sich daher das Recht vor, jederzeit Änderungen an diesen Datenschutzhinweisen vorzunehmen. Die aktuelle Fassung dieser Datenschutzhinweise ist jeweils verfügbar beim Vorstand des Vereins.
 
-**Potsdam, den 03.08.2024**
+**Potsdam, den 01.06.2025**
