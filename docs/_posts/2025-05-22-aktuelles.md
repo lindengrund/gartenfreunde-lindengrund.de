@@ -1,6 +1,6 @@
 ---
 title: Ordentliche Mitgliederversammlung 2025
-date: 22.05.2025 um 17:30
+date: 22.05.2025
 ---
 
 Liebe Gartenfreunde,

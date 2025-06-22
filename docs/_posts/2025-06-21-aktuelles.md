@@ -1,6 +1,6 @@
 ---
 title: Gartenfest 2025
-date: 21.06.2025 um 16:00 
+date: 21.06.2025 
 ---
 
 Liebe Gartenfreunde,
