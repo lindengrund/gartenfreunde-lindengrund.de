@@ -8,6 +8,9 @@ description: Informationen über den Kleingartenverein
 
 # Einleitung
 
+Unser Kleingartenverein mit seinen 52 Parzellen befindet sich am westlichen Rand einer Ansammlung von Kleingartenanlagen in Potsdam West. Unsere Vereinsflächen sind verkehrsgünstig in der Nähe des [Bahnhof Park Sanssouci](https://de.wikipedia.org/wiki/Bahnhof_Potsdam_Park_Sanssouci) gelegen. Sie werden in nordöstlicher Richtung vom [Park Sanssouci](https://de.wikipedia.org/wiki/Park_Sanssouci) und in westlicher Richtung vom [Wildpark Potsdam](https://de.wikipedia.org/wiki/Wildpark_Potsdam) umrahmt.
+
+Mittig durch unsere Vereinsfläche verläuft von Norden nach Süden die historische [Peter-Kühne-Siedlung](/peter-kuehne-siedlung) mit ihren kleinen Doppelhäuschen aus der Zeit des zweiten Weltkriegs. Unser Verein fühlt sich dem Erhalt dieses geschichtlichen Erbes verbunden und hat die Aufrechterhaltung der Erinnerung an die besondere Lage der Kleingärten in der Satzung verankert.
 
 <hr class="post-separator">
 
@@ -15,8 +18,6 @@ description: Informationen über den Kleingartenverein
 
 Die Anlage der Gartenfreunde Lindengrund e.V. befindet sich auf dem Flurstück 174/10 der Flur 022 in der Gemarkung Potsdam.
 Die Vereinsflächen werden nördlich vom Werderschen Weg, südlich und westlich von der Forststraße und westlich vom Fasanenweg eingerahmt. 
-
-Genau mittig verläuft die historische [Peter-Kühne-Siedlung](/peter-kuehne-siedlung) mit ihren kleinen Doppelhäuschen aus der Zeit des zweiten Weltkriegs, deren Erhalt sich der Verein verbunden fühlt.
 
 ## Anschrift
 
