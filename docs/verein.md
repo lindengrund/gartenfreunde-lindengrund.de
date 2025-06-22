@@ -12,6 +12,8 @@ Unser Kleingartenverein mit seinen 53 Parzellen befindet sich am westlichen Rand
 
 Mittig durch unsere Vereinsflächen verläuft von Norden nach Süden die historische [Peter-Kühne-Siedlung](/peter-kuehne-siedlung) mit ihren kleinen Doppelhäuschen aus der Zeit des zweiten Weltkriegs. Unser Verein fühlt sich dem Erhalt dieses geschichtlichen Erbes verbunden und hat die Aufrechterhaltung der Erinnerung an die besondere Lage der Kleingärten in der Satzung verankert.
 
+Unser Verein ist Mitglied im [Kreisverband Potsdam der Garten- und Siedlerfreunde e.V.](https://www.vgs-kv-potsdam.de/). 
+
 <hr class="post-separator">
 
 # Lage
