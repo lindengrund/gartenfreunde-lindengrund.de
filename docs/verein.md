@@ -8,7 +8,7 @@ description: Informationen über den Kleingartenverein
 
 # Einleitung
 
-Unser Kleingartenverein mit seinen 52 Parzellen befindet sich am westlichen Rand einer Ansammlung von Kleingartenanlagen in Potsdam West. Unsere Vereinsflächen sind verkehrsgünstig in der Nähe des [Bahnhof Park Sanssouci](https://de.wikipedia.org/wiki/Bahnhof_Potsdam_Park_Sanssouci) gelegen. Sie werden in nordöstlicher Richtung vom [Park Sanssouci](https://de.wikipedia.org/wiki/Park_Sanssouci) und in westlicher Richtung vom [Wildpark Potsdam](https://de.wikipedia.org/wiki/Wildpark_Potsdam) umrahmt.
+Unser Kleingartenverein mit seinen 53 Parzellen befindet sich am westlichen Rand einer Ansammlung von Kleingartenanlagen in Potsdam West. Unsere Vereinsflächen sind verkehrsgünstig in der Nähe des [Bahnhof Park Sanssouci](https://de.wikipedia.org/wiki/Bahnhof_Potsdam_Park_Sanssouci) gelegen. Sie werden in nordöstlicher Richtung vom [Park Sanssouci](https://de.wikipedia.org/wiki/Park_Sanssouci) und in westlicher Richtung vom [Wildpark Potsdam](https://de.wikipedia.org/wiki/Wildpark_Potsdam) umrahmt.
 
 Mittig durch unsere Vereinsflächen verläuft von Norden nach Süden die historische [Peter-Kühne-Siedlung](/peter-kuehne-siedlung) mit ihren kleinen Doppelhäuschen aus der Zeit des zweiten Weltkriegs. Unser Verein fühlt sich dem Erhalt dieses geschichtlichen Erbes verbunden und hat die Aufrechterhaltung der Erinnerung an die besondere Lage der Kleingärten in der Satzung verankert.
 
