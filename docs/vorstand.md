@@ -3,7 +3,7 @@ layout: standard
 active: vorstand
 title: Vorstand
 heading: Gartenfreunde Lindengrund e.V.
-description: Vorstellung des Vorstands
+description: Vorstellung des Vereinsvorstands
 ---
 
 # Einleitung
