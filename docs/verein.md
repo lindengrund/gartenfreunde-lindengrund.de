@@ -19,7 +19,7 @@ Unser Verein ist Mitglied im [Kreisverband Potsdam der Garten- und Siedlerfreund
 # Lage
 
 Die Anlage der Gartenfreunde Lindengrund e.V. befindet sich auf dem Flurstück 174/10 der Flur 022 in der Gemarkung Potsdam.
-Die Vereinsflächen werden nördlich vom Werderschen Weg, südlich und westlich von der Forststraße und westlich vom Fasanenweg eingerahmt. 
+Die Vereinsflächen werden nördlich vom Werderschen Weg, südlich und westlich von der Forststraße und westlich vom Fasanenweg begrenzt. 
 
 ## Anschrift
 
