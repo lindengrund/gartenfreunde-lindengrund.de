@@ -18,10 +18,10 @@ Der Vorstand ist unter anderem für die Führung der laufenden Geschäfte des Ve
 
 Der **Kernvorstand** besteht aus 3 Mitgliedern und wird für eine Amtszeit von 3 Jahren von der Mitgliederversammlung gewählt. Da die gleichberechtigten Mitglieder des Kernvorstands gut mit einander auskommen können müssen, werden sie nicht einzeln sondern gemeinsam im Gruppenwahlverfahren gewählt. Der Kernvorstand ist berechtigt, Vorstandssitzungen einzuberufen und den Verein im Innen- und Außenverhältnis zu vertreten. Um den Kernvorstand bei seiner Arbeit zu entlasten, kann dieser zudem Mitglieder des Fachvorstands bestimmen.
 
-**Die Mitglieder des Kernvorstands sind seit 2024:**
-* André Woyna
+**Die Mitglieder des Kernvorstands sind seit 2026:**
 * Cornelia Manneck
 * Dr. David Manneck
+* Kevin Niehage
 
 <hr class="post-separator">
 

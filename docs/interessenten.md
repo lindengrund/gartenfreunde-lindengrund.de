@@ -6,7 +6,7 @@ heading: Gartenfreunde Lindengrund e.V.
 description: Übernahme einer Kleingartenparzelle
 ---
 
-# Einleitung
+# Interessenten&shy;liste
 
 
 
@@ -20,10 +20,6 @@ description: Übernahme einer Kleingartenparzelle
 
 
 
-## Rahmengartenordnung
-
-
-
 ## Vereinssatzung
 
 
@@ -31,17 +27,9 @@ description: Übernahme einer Kleingartenparzelle
 ## Beitragsordnung
 
 
-<hr class="post-separator">
 
-# Mitgliedschaft
+## Rahmengartenordnung
 
-
-
-## Ordentliche Mitgliedschaft
-
-
-
-## Fördermitgliedschaft
 
 
 <hr class="post-separator">
@@ -50,15 +38,14 @@ description: Übernahme einer Kleingartenparzelle
 
 
 
+## Mitgliedschafts&shy;vertrag
+
+
+
 ## Kauf&shy;verträge
 
 
 
 ## Pacht&shy;vertrag
-
-
-<hr class="post-separator">
-
-# Interessenten&shy;liste
 
 

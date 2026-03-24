@@ -26,9 +26,9 @@ Forststraße / Peter-Kühne-Siedlung<br>
 # § 3 Vertretungs&shy;berechtigte
 
 **Mitglieder des Kernvorstands:**<br>
-André Woyna<br>
 Cornelia Manneck<br>
 Dr. David Manneck<br>
+Kevin Niehage<br>
 <br>
 Gartenfreunde Lindengrund e.V. Potsdam-West<br>
 Forststraße / Peter-Kühne-Siedlung<br>
