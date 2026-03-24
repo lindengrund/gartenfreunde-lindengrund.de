@@ -5,5 +5,7 @@ plugins:
 title: Gartenfreunde Lindengrund e.V.
 description: 
 
+future: true
+
 lang: de
 locale: de_DE
