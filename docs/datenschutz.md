@@ -86,7 +86,7 @@ Für die vorgenannten Zwecke werden folgende Kategorien personenbezogener Daten 
 
 # § 6 Speicher&shy;dauer
 
-1. Die für Eintragung in die Interessentenliste erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
+1. Die für die Eintragung in die Interessentenliste erforderlichen personenbezogene Daten werden aufgehoben, bis die Erforderlichkeit der Verarbeitung entfallen ist oder die Einwilligung durch die betroffenen Person widerrufen wurde und anschließend gelöscht.
 
 2. Die für die Begründung, Durchführung und Beendigung von Mitgliedschaften erforderlichen personenbezogenen Daten werden aus haftungsrechtlichen Gründen für bis zu 3 Jahre nach Beendigung der Mitgliedschaften aufgehoben und anschließend gelöscht.
 
@@ -146,4 +146,4 @@ Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem G
 
 Aufgrund erforderlicher Änderungen an den Verarbeitungstätigkeiten kann es notwendig werden, diese Datenschutzhinweise zu aktualisieren. Der Verein behält sich daher das Recht vor, jederzeit Änderungen an diesen Datenschutzhinweisen vorzunehmen. Die aktuelle Fassung dieser Datenschutzhinweise ist jeweils verfügbar beim Vorstand des Vereins.
 
-**Potsdam, den 01.06.2025**
+**Potsdam, den 18.05.2026**
