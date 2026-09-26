@@ -146,4 +146,4 @@ Der Verein speichert keine Cookies und keine Local-Storage-Einträge auf Ihrem G
 
 Aufgrund erforderlicher Änderungen an den Verarbeitungstätigkeiten kann es notwendig werden, diese Datenschutzhinweise zu aktualisieren. Der Verein behält sich daher das Recht vor, jederzeit Änderungen an diesen Datenschutzhinweisen vorzunehmen. Die aktuelle Fassung dieser Datenschutzhinweise ist jeweils verfügbar beim Vorstand des Vereins.
 
-**Potsdam, den 18.05.2026**
+**Potsdam, den 26.09.2026**
